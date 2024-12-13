@@ -1,10 +1,10 @@
 {
   "name": "Unit0 McSasha List",
-  "timestamp": "2024-12-13T10:00:00.000Z",
+  "timestamp": "2024-12-13T16:00:00.000Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
-    "patch": 2
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/logo512.png",
