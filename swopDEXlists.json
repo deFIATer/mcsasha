@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://github.com/deFIATer/mcsasha/blob/main/logo512.png?raw=true",
+  "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/logo512.png",
   "keywords": [
     "unit0",
     "default"
@@ -19,7 +19,7 @@
       "name": "McSasha",
       "symbol": "MCSASHA",
       "decimals": 18,
-      "logoURI": "https://github.com/deFIATer/mcsasha/blob/d30f36dac741518676d338a8d3d64466a74acf6d/logo512.png"
+      "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/logo512.png"
     },
     {
       "chainId": 88811,
@@ -27,7 +27,7 @@
       "name": "McBurgers",
       "symbol": "MCBURGERS",
       "decimals": 18,
-      "logoURI": "https://github.com/deFIATer/mcsasha/blob/d30f36dac741518676d338a8d3d64466a74acf6d/logo512.png"
+      "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/logo512.png"
     },
     {
       "chainId": 88811,
