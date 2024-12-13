@@ -13,6 +13,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "chainId": 88811,
+      "address": "0x7900c01eED60868beEA1DE79730CA5633A4b6a45",
+      "name": "Sancho",
+      "symbol": "Sancho",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/sancho.png"
+    },
   {
       "chainId": 88811,
       "address": "0x6DFE63380149E04f4DD9BD7E8d892eEc28878556",
