@@ -1,5 +1,5 @@
 {
-  "name": "Unit0 Mainnet",
+  "name": "Unit0 McSasha List",
   "timestamp": "2024-12-13T10:00:00.000Z",
   "version": {
     "major": 1,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://swop.fi/static/media/swop-icon.21002f7f79c39f0ee53fce36dff129af.svg",
+  "logoURI": "https://github.com/deFIATer/mcsasha/blob/d30f36dac741518676d338a8d3d64466a74acf6d/logo512.png",
   "keywords": [
     "unit0",
     "default"
