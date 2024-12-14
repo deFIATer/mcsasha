@@ -1,8 +1,8 @@
 {
   "name": "Unit0 McSasha List",
-  "timestamp": "2024-12-14T09:00:00.000Z",
+  "timestamp": "2024-12-14T09:30:00.000Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 1
   },
@@ -13,6 +13,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "chainId": 88811,
+      "address": "0xCcEc50609597fcd198631AF2B1dad69A890D28a0",
+      "name": "USDN",
+      "symbol": "USDN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/usdn.png"
+    },
     {
       "chainId": 88811,
       "address": "0x7900c01eED60868beEA1DE79730CA5633A4b6a45",
