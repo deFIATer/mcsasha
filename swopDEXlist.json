@@ -68,6 +68,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "chainId": 88811,
+      "address": "0xb12fBfd30B50393a814237434B527a74a217e494",
+      "name": "PixWav",
+      "symbol": "PixWav",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/pixwav.png"
     }
   ]
 }
